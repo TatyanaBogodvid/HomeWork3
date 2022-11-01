@@ -19,14 +19,13 @@ public class Main {
      System.out.println( "Задача 2");
      float A = 27.12f;
      long B = 987678965549L;
-     byte C = 2;
-     short D = 786;
-     boolean E = false;
-     short F = 569;
-     short G = -159;
-     short H = 27897;
-     byte I = 67;
-     System.out.println(A + ", " + B + ", " + C + ", " + D + "," + E + ", " + F + ", " + G + ", " + H + ", " + I);
+     double C = 2.786;
+     boolean D = false;
+     char E = 569;
+     short F = -159;
+     int G = 27897;
+     byte H = 67;
+     System.out.println(A + ", " + B + ", " + C + ", " + D + "," + E + ", " + F + ", " + G + ", " + H);
 
      //Задача 3
      System.out.println( "Задача 3");
