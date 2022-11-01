@@ -106,10 +106,5 @@ public class Main {
         System.out.println("Кристина теперь получает " + krisMonth1 + ". Годовой доход вырос на " + (krisYear1 - krisYear) + " рублей.");
 
 
-
-
-
-
-
     }
 }
