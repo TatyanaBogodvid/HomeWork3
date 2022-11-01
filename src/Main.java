@@ -26,6 +26,7 @@ public class Main {
      short G = -159;
      short H = 27897;
      byte I = 67;
+     System.out.println(A + ", " + B + ", " + C + ", " + D + "," + E + ", " + F + ", " + G + ", " + H + ", " + I);
 
      //Задача 3
      System.out.println( "Задача 3");
